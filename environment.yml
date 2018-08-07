@@ -1,5 +1,6 @@
 name: blah
 channels:
   - conda-forge
+  - QuantStack
 dependencies:
 - pyzmq=17.0.0
