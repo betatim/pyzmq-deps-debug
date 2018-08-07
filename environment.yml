@@ -1,0 +1,5 @@
+name: blah
+channels:
+  - conda-forge
+dependencies:
+- pyzmq=17.0.0
